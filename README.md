@@ -2,9 +2,9 @@
 
 
 ## Dataset
-[[Data]('https://storage.googleapis.com/dqlab-dataset/pythonTutorial/ecommerce_banner_promo.csv')]
+- [[Data](https://storage.googleapis.com/dqlab-dataset/pythonTutorial/ecommerce_banner_promo.csv)]
 
-## Adapun feature - feature dalam dataset ini adalah :
+##   Feature - feature dalam dataset ini adalah :
 1.	'Daily Time Spent on Site' : lama waktu user mengunjungi site (menit)
 2.	'Age' : usia user (tahun)
 3.	'Area Income' : rata - rata pendapatan di daerah sekitar user
